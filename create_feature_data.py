@@ -225,12 +225,7 @@ def main(model_name):
 
 if __name__ == '__main__':
     models_list = [
-        # 'SRPMAEv1.5', 'SRPMAEv1', 'SRPMAEv2',
-        # 'SwinUNETR', 'PRISM', 'UNETR', 'BrainSegFounder',
-        # 'ResNet18', 'ResNet34', 'ResNet50',
-        'MAE', 'SRPMAEDirect',
-        'RP3D_Diag',
-        'SRPMAEBert'
+        'GynoMRFound'
     ]
     for mm in models_list:
         main(mm)
