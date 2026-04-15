@@ -1,4 +1,4 @@
-# An MRI Foundation Model for real-world Versatile Clinical Applications in Gynecological Cancer via Report Meta data guided learning (GynoMRFound)
+# An MRI Foundation Model for Versatile Clinical Applications in Gynecological Cancer via Report Metadata Learning (GynoMRFound)
 
 ## Framework and tasks
 
