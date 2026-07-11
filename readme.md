@@ -15,7 +15,7 @@ conda activate GynoMRFound
 git clone https://github.com/khtao/GynoMRFound.git
 cd GynoMRFound
 pip install -r requirements.txt
-git clone https://huggingface.co/khtao/pretrained_models
+git clone https://huggingface.co/khtao/GynoMRFound
 ```
 
 ## 🚀 Inference with GynoMRFound
